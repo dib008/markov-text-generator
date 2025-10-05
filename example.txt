@@ -1,0 +1,1 @@
+Artificial intelligence is transforming industries. Markov chains are a simple yet powerful tool for generating text. This project demonstrates their use in Python.
